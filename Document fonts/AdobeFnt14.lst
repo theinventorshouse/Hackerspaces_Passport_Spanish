@@ -1,0 +1,110 @@
+%!Adobe-FontList 1.14
+%Locale:0x80a
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ArnoPro-Caption
+FamilyName:Arno Pro
+StyleName:Caption
+FullName:Arno Pro Caption
+MenuName:Arno Pro Caption
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Sabas\Desktop\Hackpass\Document fonts\ArnoPro-Caption.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:399932
+FileModTime:1187777559
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:80
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SWRomnd
+FamilyName:SWRomnd
+StyleName:Regular
+FullName:SWRomnd
+MenuName:SWRomnd
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Sabas\Desktop\Hackpass\Document fonts\swromnd.ttf
+DataFormat:sfntData
+FileLength:91184
+FileModTime:1184277744
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TradeGothicLTStd-Bold
+FamilyName:Trade Gothic LT Std
+StyleName:Bold
+FullName:Trade Gothic LT Std Bold
+MenuName:Trade Gothic LT Std Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Sabas\Desktop\Hackpass\Document fonts\TradeGothicLTStd-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29336
+FileModTime:1187777813
+WeightClass:700
+WidthClass:4
+AngleClass:0
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TradeGothicLTStd
+FamilyName:Trade Gothic LT Std
+StyleName:Regular
+FullName:Trade Gothic LT Std
+MenuName:Trade Gothic LT Std
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Sabas\Desktop\Hackpass\Document fonts\TradeGothicLTStd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28908
+FileModTime:1187777813
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:UtopiaStd-Italic
+FamilyName:Utopia Std
+StyleName:Italic
+FullName:Utopia Std Italic
+MenuName:Utopia Std
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Sabas\Desktop\Hackpass\Document fonts\UtopiaStd-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:67696
+FileModTime:1164179588
+WeightClass:400
+WidthClass:5
+AngleClass:1
+DesignSize:110
+%EndFont
+

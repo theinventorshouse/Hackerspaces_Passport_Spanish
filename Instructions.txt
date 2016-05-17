@@ -1,0 +1,91 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: passassembled2.indd
+
+PACKAGE DATE: 18/08/2014 06:31 p.m.
+Creation Date: 18/08/2014
+Modification Date: 18/08/2014
+
+CONTACT INFORMATION
+
+Company Name: The Inventors House
+Contact: Andres Sabas
+Address: 
+Estaño
+Aguascalientes, México
+
+
+
+Phone: 4499156162
+Fax: 
+Email: contacto@theinventorshouse.org
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :On Page1, 2, 3, 13
+
+FONTS
+5 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: ArnoPro-Caption; Type: OpenType Type 1, Status: OK
+- Name: SWRomnd; Type: TrueType, Status: OK
+- Name: TradeGothicLTStd; Type: OpenType Type 1, Status: OK
+- Name: TradeGothicLTStd-Bold; Type: OpenType Type 1, Status: OK
+- Name: UtopiaStd-Italic; Type: OpenType Type 1, Status: OK
+
+
+COLOURS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Magenta; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Black; Angle: 0.000; Lines/Inch: 0.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 12 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 10 use RGB colour space
+
+
+PRINT SETTINGS
+PPD: N/A, (Microsoft XPS Document Writer)
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0 in, 0 in, 0 in, 0 in
+Colour: Composite RGB
+Trapping Mode: None
+Send Image Data: Optimised Subsampling
+OPI/DCS Image Replacement: No
+Page Size: Custom: 3.75 in x 33p0
+Paper Dimensions: 8.5 in x 66p0
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. passassembled2.indd; type: Adobe InDesign publication; size: 0K
+2. ArnoPro-Caption.otf; type: Font file; size: 390K
+3. swromnd.ttf; type: Font file; size: 89K
+4. TradeGothicLTStd.otf; type: Font file; size: 28K
+5. TradeGothicLTStd-Bold.otf; type: Font file; size: 28K
+6. UtopiaStd-Italic.otf; type: Font file; size: 66K
