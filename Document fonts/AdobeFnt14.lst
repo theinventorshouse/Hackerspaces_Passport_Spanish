@@ -11,12 +11,12 @@ FullName:Arno Pro Caption
 MenuName:Arno Pro Caption
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\Sabas\Desktop\Hackpass\Document fonts\ArnoPro-Caption.otf
+OutlineFileName:C:\Users\charly\Desktop\Hackerspaces_Passport_Spanish-master\Document fonts\ArnoPro-Caption.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:399932
-FileModTime:1187777559
+FileModTime:1463508535
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -33,10 +33,10 @@ FullName:SWRomnd
 MenuName:SWRomnd
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\Sabas\Desktop\Hackpass\Document fonts\swromnd.ttf
+OutlineFileName:C:\Users\charly\Desktop\Hackerspaces_Passport_Spanish-master\Document fonts\swromnd.ttf
 DataFormat:sfntData
 FileLength:91184
-FileModTime:1184277744
+FileModTime:1463508535
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -52,12 +52,12 @@ FullName:Trade Gothic LT Std Bold
 MenuName:Trade Gothic LT Std Bold
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\Sabas\Desktop\Hackpass\Document fonts\TradeGothicLTStd-Bold.otf
+OutlineFileName:C:\Users\charly\Desktop\Hackerspaces_Passport_Spanish-master\Document fonts\TradeGothicLTStd-Bold.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:29336
-FileModTime:1187777813
+FileModTime:1463508535
 WeightClass:700
 WidthClass:4
 AngleClass:0
@@ -74,12 +74,12 @@ FullName:Trade Gothic LT Std
 MenuName:Trade Gothic LT Std
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\Sabas\Desktop\Hackpass\Document fonts\TradeGothicLTStd.otf
+OutlineFileName:C:\Users\charly\Desktop\Hackerspaces_Passport_Spanish-master\Document fonts\TradeGothicLTStd.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:28908
-FileModTime:1187777813
+FileModTime:1463508535
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -96,12 +96,12 @@ FullName:Utopia Std Italic
 MenuName:Utopia Std
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:C:\Users\Sabas\Desktop\Hackpass\Document fonts\UtopiaStd-Italic.otf
+OutlineFileName:C:\Users\charly\Desktop\Hackerspaces_Passport_Spanish-master\Document fonts\UtopiaStd-Italic.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:67696
-FileModTime:1164179588
+FileModTime:1463508535
 WeightClass:400
 WidthClass:5
 AngleClass:1
