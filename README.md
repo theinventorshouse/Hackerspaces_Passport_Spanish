@@ -8,6 +8,8 @@ en español.
 
 Este obra está bajo una licencia de Creative Commons 
 Reconocimiento-CompartirIgual 4.0 Internacional.
+Mitch Altam - TVBGone.com
+Matthew Borgatti - Har.ms
 Thanks to Matthew Borgatti (@gianteye) who did all the illustration, graphic design, and proofing to bring this together.
 
 The Inventor's House, Aguascalientes, México
