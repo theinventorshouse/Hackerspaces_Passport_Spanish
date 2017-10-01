@@ -1,7 +1,7 @@
 Hackerspaces_Passport_Spanish
 =======
 
-[DISPONIBLE EN KICKSTARTER](kck.st/2yHS0dB)
+[DISPONIBLE EN KICKSTARTER](http://kck.st/2yHS0dB)
 
 Este es un trabajo en conjunto de The Inventor's House, HackerGarage 
 y Hackerspace Monterrey para todos los hackerspace de México y toda la comunidad
