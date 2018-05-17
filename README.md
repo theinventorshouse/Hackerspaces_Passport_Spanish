@@ -1,12 +1,10 @@
-Hackerspaces_Passport_Spanish
-=======
-
-[DISPONIBLE EN KICKSTARTER](http://kck.st/2yHS0dB)
 
 Este es un trabajo en conjunto de The Inventor's House, HackerGarage 
 y Hackerspace Monterrey para todos los hackerspace de México y toda la comunidad
 de habla hispana, hemos traducido y puesto en formatos editables el pasaporte hacker
 en español.
+
+[DISPONIBLE EN KICKSTARTER](http://kck.st/2yHS0dB)
 
 Este obra está bajo una licencia de Creative Commons 
 Reconocimiento-CompartirIgual 4.0 Internacional.
